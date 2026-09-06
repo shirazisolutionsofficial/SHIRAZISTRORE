@@ -1,4 +1,4 @@
-const CLOUDFLARE_API_URL = "https://storeshirazi.madnisialpro.workers.dev"; 
+const CLOUDFLARE_API_URL = "https://shirazistore.shirazi-solutions.workers.dev"; 
 
 let allProducts = [];
 let cart = [];
